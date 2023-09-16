@@ -40,3 +40,7 @@ Learned how to setup basic program, and process.
    Learned how to modify CSS with eventlistners, using this or other ways to target multiple of same class. All needed on query selector. ForEach needed on EventListener
 
 4. Code pen video was just how to use a Code Pen, nothing about making one.
+
+5. Stopwatch
+   learned about using data- to select HTMl elements instead of numerous classes. Userd variables, terinary opperator.
+   Use is running boolean.
