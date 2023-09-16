@@ -36,11 +36,16 @@ Learned how to setup basic program, and process.
       // add our event listeners
       priceInput.addEventListener("input", calculatePieCost);
 
-3. Crazy Buttons
-   Learned how to modify CSS with eventlistners, using this or other ways to target multiple of same class. All needed on query selector. ForEach needed on EventListener
+3.  Crazy Buttons
+    Learned how to modify CSS with eventlistners, using this or other ways to target multiple of same class. All needed on query selector. ForEach needed on EventListener
 
-4. Code pen video was just how to use a Code Pen, nothing about making one.
+4.  Code pen video was just how to use a Code Pen, nothing about making one.
 
-5. Stopwatch
-   learned about using data- to select HTMl elements instead of numerous classes. Userd variables, terinary opperator.
-   Use is running boolean.
+5.  Stopwatch
+    learned about using data- to select HTMl elements instead of numerous classes. Userd variables, terinary opperator.
+    Use is running boolean.
+
+6.  Accodrion
+
+        Learned how to make an accordion with closing and opening texts.
+        Was not able to get glyphicon to work, used V, but letter doesnt seem to rotate
