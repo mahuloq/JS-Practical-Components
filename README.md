@@ -18,3 +18,23 @@ const lalaButton = document.querySelector(".lala-btn");
       );
 
 2. Building a Pricing Calculator
+
+Learned how to setup basic program, and process.
+
+    grab everything we need from dom
+      const priceInput = document.querySelector("[name=price]");
+
+      // create the functions that we'll need
+      function calculatePieCost() {
+        const price = priceInput.value;
+
+      }
+
+      // on first run
+      calculatePieCost();
+
+      // add our event listeners
+      priceInput.addEventListener("input", calculatePieCost);
+
+3. Crazy Buttons
+   Learned how to modify CSS with eventlistners, using this or other ways to target multiple of same class. All needed on query selector. ForEach needed on EventListener
