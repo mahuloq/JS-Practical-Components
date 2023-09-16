@@ -38,3 +38,5 @@ Learned how to setup basic program, and process.
 
 3. Crazy Buttons
    Learned how to modify CSS with eventlistners, using this or other ways to target multiple of same class. All needed on query selector. ForEach needed on EventListener
+
+4. Code pen video was just how to use a Code Pen, nothing about making one.
