@@ -52,3 +52,11 @@ Learned how to setup basic program, and process.
 
 7.  Scrolling Progress Bar
     Learned about some window quesry selectors, and about using debounce on functions that may interact or run too often.
+
+8.  Reflection
+
+    A. The practice with query selectors and Event listeners was the most helpful. Only through repetition is stuff learned, so seeing it used over and over was helpful.
+
+    B. Each component ranked with difficulty. 1. Stopwatch 2. Pricing 3. Crazy Buttons 4. Accordian 5. Scrolling
+
+    C.The organization of the script elements was very useful. Knowing that you should pull down what you need, then add event listeners, then define the functions lets you break down the problem into easier and smaller problems.
