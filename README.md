@@ -49,3 +49,6 @@ Learned how to setup basic program, and process.
 
         Learned how to make an accordion with closing and opening texts.
         Was not able to get glyphicon to work, used V, but letter doesnt seem to rotate
+
+7.  Scrolling Progress Bar
+    Learned about some window quesry selectors, and about using debounce on functions that may interact or run too often.
